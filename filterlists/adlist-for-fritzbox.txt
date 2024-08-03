@@ -21,10 +21,6 @@ adservice.google.com
 adsfs.oppomobile.com
 adtago.s3.amazonaws.com
 adtech.yahooinc.com
-advertising-api-eu.amazon.com
-advertising.apple.com
-advertising.yahoo.com
-advertising.yandex.ru
 advice-ads.s3.amazonaws.com
 adx.ads.oppomobile.com
 afs.googlesyndication.com
@@ -44,7 +40,6 @@ api.ad.xiaomi.com
 api.bugsnag.com
 api.luckyorange.com
 api.mouseflow.com
-app-measurement.com
 app.bugsnag.com
 app.getsentry.com
 appmetrica.yandex.ru
@@ -57,6 +52,7 @@ business-api.tiktok.com
 careers.hotjar.com
 cdn-test.mouseflow.com
 cdn.luckyorange.com
+cdn.mouseflow.com
 ck.ads.oppomobile.com
 claritybt.freshmarketer.com
 click.googleanalytics.com
@@ -76,9 +72,9 @@ freshmarketer.com
 fwtracks.freshmarketer.com
 gemini.yahoo.com
 geo.yahoo.com
-globalapi.ad.xiaomi.com
 google-analytics.com
 grs.hicloud.com
+gtm.mouseflow.com
 iadsdk.apple.com
 identify.hotjar.com
 insights.hotjar.com
@@ -94,7 +90,6 @@ luckyorange.com
 m.doubleclick.net
 media.net
 mediavisor.doubleclick.net
-metrics.apple.com
 metrics.data.hicloud.com
 metrics.icloud.com
 metrics.mzstatic.com
@@ -104,6 +99,7 @@ mouseflow.com
 nmetrics.samsung.com
 notes-analytics-events.apple.com
 notify.bugsnag.com
+o2.mouseflow.com
 offerwall.yandex.net
 open.oneplus.net
 pagead2.googleadservices.com
@@ -127,7 +123,6 @@ stats.g.doubleclick.net
 stats.wp.com
 surveys.hotjar.com
 tools.mouseflow.com
-tr.iadsdk.apple.com
 tracking.rus.miui.com
 trk.pinterest.com
 udc.yahoo.com
@@ -137,4 +132,3 @@ w1.luckyorange.com
 wd.adcolony.com
 weather-analytics-events.apple.com
 webview.unityads.unity3d.com
-widgets.pinterest.com
