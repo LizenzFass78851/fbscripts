@@ -1,5 +1,7 @@
 ### Remove the comments with hash marks before copying the contents of the list to the fritzbox
-### checked from https://d3ward.github.io/toolz/adblock
+### checked from https://d3ward.github.io/toolz/adblock (source of the adlist)
+### 
+### Links from the above source may not be updated and therefore this list may no longer be current.
 
 ad.doubleclick.net
 adc3-launch.adcolony.com
