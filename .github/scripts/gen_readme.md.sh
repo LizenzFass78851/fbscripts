@@ -26,7 +26,14 @@ rm $PATCHTHEFILE
 
 # Erstelle die Datei
 # Schicht 1
-echo -e '# FritzBox Scripts\n\n\nA collection of tools and scripts with which you can do something in combination with a Fritzbox\n\n## Overview of the scripts and files:' | tee $PATCHTHEFILE
+cat <<EOF | tee $PATCHTHEFILE
+# FritzBox Scripts
+
+
+A collection of tools and scripts with which you can do something in combination with a Fritzbox
+
+## Overview of the scripts and files:
+EOF
 
 # Die Links
 while read line; do
