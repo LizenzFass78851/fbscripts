@@ -29,7 +29,6 @@ adx.ads.oppomobile.com
 afs.googlesyndication.com
 an.facebook.com
 analytics.google.com
-analytics.pinterest.com
 analytics.pointdrive.linkedin.com
 analytics.query.yahoo.com
 analytics.s3.amazonaws.com
